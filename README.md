@@ -1,4 +1,4 @@
-Perfect, Lihle 🙌 — here’s a polished **README.md** draft for your **Academic Management Database Schema** project. You can copy this directly into your GitHub repo to make it look professional and clear:
+
 
 ---
 
