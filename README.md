@@ -93,9 +93,9 @@ JOIN STAFF st ON l.LECTURER_NR = st.STAFFNR;
 ---
 
 ## 📊 ER Diagram
-Include your ER diagram image here:
+
 ```markdown
-![ER Diagram](er-diagram.png)
+
 ```
 
 ---
